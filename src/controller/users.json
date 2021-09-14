@@ -1,0 +1,18 @@
+[
+  {
+    "role": "admin",
+    "_id": "5ea015a84448022f50c58be5",
+    "name": "Амараа",
+    "email": "admin@gmail.com",
+    "password": "1234",
+    "age": 30
+  },
+  {
+    "role": "admin",
+    "_id": "5ea015cec0f5e551d8d1615d",
+    "name": "Сараа",
+    "email": "op@gmail.com",
+    "password": "1234",
+    "age": 23
+  }
+]
