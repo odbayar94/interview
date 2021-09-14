@@ -2,8 +2,6 @@ const express = require("express");
 const app = express();
 //add route
 const userRoutes = require("./routes/user");
-// Body parser
-// app.use(express.json());
 
 app.use("/api/v1/users", userRoutes);
 
